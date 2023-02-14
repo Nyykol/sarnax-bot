@@ -1,0 +1,26 @@
+{
+  "title": ["**`CLOUD CLUB`**"],
+  "field_description": {
+    "text": "**__Website__:** http://Serups.me/ (__Resume__) | All projects and clients are in it.",
+    "text1": "All projects come with a Refund , read more about the Project: https://github.com/API-Connects/Detail",
+    "text2": "**Payment** : **__Paypal__:**<:paypal40:1071018230015082507> |  **__Crypto__** <:bnb31:1071018220586283059> | **__Binance Gift Card__** <a:2805moneycard2:1071018190706061343> | ・**__DM__:** <@1031767513077387284>"
+  },
+  "price_name": {
+    "project_pv": "<:bangbang:1071018214877839360> **__Private Project__:**",
+    "source": "<:4228_discord_bot_dev:1071064650856280197> **__Source Code__:**",
+    "woofer": "<a:_Config_:1071018171114463242> **__Unban__:**",
+    "read": "<a:1040617379857702912:1071018210423480401> **Read !**"
+  },
+
+  "price_value": {
+    "project_pv": ["PUBG       ► 120$", "VALORANT   ► 180$", "RUST       ► 140$", "OVERWATCH  ► 120$", "FIVEM      ► 120$", "MW2/WZ     ► 160$", "FORTNITE   ► 250$", "APEX       ► 140$"],
+    "source": ["FIVEM      ► 600$", "FORTNITE   ► 800$", "SPOOF      ► 300$", "WARZONE    ► 800$", "RUST       ► 600$", "DRIVER     ► 300$", "INJECTOR   ► 300$", "VALORANT   ► 800$"],
+    "woofer": ["FORTNITE   ► 90$", "APEX       ► 70$", "VALORANT   ► 80$", "FIVEM      ► 70$", "WARZONE    ► 70$", "EFT        ► 80$", "EAC/BE     ► 70$", "OTHER      ► DM"],
+    "read": ["LIFETIME | NOT WORKING & BANNED = REFUND | PRIVATE SERVER |"]
+  },
+  "footer": {
+    "text": "CLOUD CLUB",
+    "iconUrl": "https://cdn.discordapp.com/attachments/986721372451504179/1062791167852421281/output-onlinegiftools_6.gif"
+  },
+  "color": "330000"
+}
