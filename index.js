@@ -188,4 +188,4 @@ client.on("ready", async (i) => {
   }
 });
 
-client.login("MTA3MTg3NzgyNjI1ODY3Nzg3MQ.GccnBK.lIjTvq1pq_l1ZTzdIOKPWJHOdGTpeNapet9a0s");
+client.login("MTA3MTg3NzgyNjI1ODY3Nzg3MQ.GAU1Se.V5t82tjD_SI8bhH4nZwMOdmuOihjdkwqArzRIw");
