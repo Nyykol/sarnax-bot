@@ -24,7 +24,7 @@ client.on("ready", async (i) => {
   for (let id of channels.price_channel_id) {
     let channel = client.channels.cache.get(id);
 
-    const row = new ActionRowBuilder().addComponents(new ButtonBuilder().setCustomId("shop").setLabel("Check Prices !").setStyle(ButtonStyle.Success).setEmoji("<:buy:986694527165280337>")).addComponents(new ButtonBuilder().setCustomId("about").setLabel("About Project").setStyle(ButtonStyle.Primary).setEmoji("<:4532roleiconmod:998486855337119744>"));
+    const row = new ActionRowBuilder().addComponents(new ButtonBuilder().setCustomId("shop").setLabel("Check Prices !").setStyle(ButtonStyle.Success).setEmoji("<a:GRT_Money:1082002639409127454>")).addComponents(new ButtonBuilder().setCustomId("about").setLabel("About Project").setStyle(ButtonStyle.Primary).setEmoji("<a:998486907455557713:1071018447884005386>"));
 
     /* Start Message Embed */
     const startEmbed = new EmbedBuilder()
