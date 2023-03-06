@@ -167,7 +167,7 @@ client.on("ready", async (i) => {
       .setTitle("`Status`")
       .setDescription(`・Project Private: <a:check:986694533662265445>\n・Loader: <a:check:986694533662265445>\n・Activate: Do /Login in <#986716807106805762>\n\n**Last update**:` + dd + "/" + mm)
       .setColor(status.color)
-      .setThumbnail("https://cdn.discordapp.com/attachments/986721372451504179/1062791167852421281/output-onlinegiftools_6.gif")
+      .setThumbnail("https://cdn.discordapp.com/attachments/1080114177974222889/1082345870558773328/output-onlinegiftools.gif")
       .setFooter({ text: `Data Update Status!`, iconURL: `https://cdn.discordapp.com/attachments/986721372451504179/1062791167852421281/output-onlinegiftools_6.gif` })
       .setTimestamp();
 
