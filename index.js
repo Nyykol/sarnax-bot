@@ -61,7 +61,7 @@ client.on("ready", async (i) => {
     channel.send({ embeds: [startEmbed], components: [row] });
 
     client.on("interactionCreate", async (interaction) => {
-      const checkdm = new EmbedBuilder().setTitle("`CLOUD CLUB`").setColor("FF0000").setDescription(`**__CHECK DM__:** ${interaction.user}\n\n<a:1040617366721146880:1071018206803795998> The price has already been sent to you.`).setThumbnail("https://cdn.discordapp.com/attachments/986721372451504179/1062791167852421281/output-onlinegiftools_6.gif");
+      const checkdm = new EmbedBuilder().setTitle("`CLOUD CLUB`").setColor("FF0000").setDescription(`**Check DM** ${interaction.user}\n\n<a:986710224759046175:1071018427461939290> We have sent a message to you in DM`).setThumbnail("https://cdn.discordapp.com/attachments/986721372451504179/1062791167852421281/output-onlinegiftools_6.gif");
       if (interaction.customId === "shop") {
         try {
           await interaction.reply({ embeds: [checkdm], ephemeral: true });
